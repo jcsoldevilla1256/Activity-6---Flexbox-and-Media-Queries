@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color:#FFDD95;
+    margin-top: 100px;
+}
+
+.flex-item {
+    padding: 20px 100px;
+    background-color: #FF9843;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #86A7FC;  
+}
