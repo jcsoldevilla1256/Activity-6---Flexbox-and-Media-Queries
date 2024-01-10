@@ -16,6 +16,12 @@ body {
     background-color: #86A7FC;  
 }
 
+div {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+}
+
 @media screen and (max-width: 600px) {
     .flex-container {
         flex-direction: column;
